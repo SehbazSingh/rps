@@ -1,0 +1,60 @@
+body{
+    background: #1e1e1e;
+}
+.resultdisplay{
+    display : flex;
+    height:60vh;
+    justify-content: center;
+
+    
+}
+
+.cchoice{
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+}
+.cchoice-text{
+    display : block;
+    text-align: center;
+}
+.quote{
+    display : block;
+    color: antiquewhite;
+    text-align: center;
+}
+.btns{
+    display : flex;
+    justify-content: center;
+}
+button{
+    cursor: pointer;
+    border:none;
+    background: transparent;
+}
+.paper{
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+.rimg{
+    height:7vh;
+    background:transparent;
+
+}
+.pimg{
+    height:7vh;
+    background:transparent;
+}
+.simg{
+    height:7vh;
+    background: transparent;
+
+}
+
+.resultimg{
+    height: 90%;
+    width: 70%;
+}
+.cimg{
+    height: 2vh;
+}
